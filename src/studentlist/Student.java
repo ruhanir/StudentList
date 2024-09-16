@@ -20,13 +20,4 @@ public class Student {
     public void setName(String name) {
         this.name = name;
     }
-    
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String add) {
-        this.address = add;
-    }
-   
 }
